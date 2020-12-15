@@ -1,6 +1,5 @@
 import React, { Fragment, useEffect, useState } from 'react'
 import { Button, Container, Form, FormGroup, Input } from 'reactstrap'
-import Course from './Course'
 import axios from 'axios'
 import base_url from './../api/BootApi'
 import { toast } from 'react-toastify'

@@ -8,8 +8,7 @@ function Header({name, title}) {
                 <CardBody>
                     <h1 className="text-center my-2">Welcome to Courses Application.</h1>
                 </CardBody>
-            </Card>
-            
+            </Card> 
         </div>
     )
 }

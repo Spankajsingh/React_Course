@@ -14,7 +14,6 @@ const Home = () => {
                     <Button color="primary" outline>Start using</Button>
                 </Container>
             </Jumbotron>
-            
         </div>
     )
 }
